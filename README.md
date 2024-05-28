@@ -1,0 +1,2 @@
+# GameDB-Genesis
+Sega Genesis
