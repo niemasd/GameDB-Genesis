@@ -1,0 +1,11 @@
+3-button Controller
+Analog Joystick
+CD-ROM (Sega CD)
+Floppy Drive
+Keyboard or Keypad
+O
+Paddle
+Printer
+RS-232
+Tablet
+Trackball
